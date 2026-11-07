@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195428108197",
+    "project_id": "pointbox-3f28b",
+    "storage_bucket": "pointbox-3f28b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195428108197:android:bb753a47be1bc064178a4c",
+        "android_client_info": {
+          "package_name": "app.pointbox.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG0V7gPDs2pwcb1taS_ASrQA_aORmFcfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
